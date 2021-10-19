@@ -1,0 +1,23 @@
+{
+  "name": "money_manager",
+  "version": "1.0.0",
+  "description": "This is to keep the track record of persons' daily income and expenses",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kajisaab/Money_Manager.git"
+  },
+  "author": "Aman khadka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kajisaab/Money_Manager/issues"
+  },
+  "homepage": "https://github.com/kajisaab/Money_Manager#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
